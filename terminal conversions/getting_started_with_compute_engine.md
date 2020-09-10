@@ -50,7 +50,7 @@ In this lab, you will learn how to perform he following tasks:
         `curl http://my-vm-1/`
             - *Result*: The html source of the web server's homepage again including custom message
 
-    2. Now get the external IP of myu-vm-1 instance with this command:
+    2. Now get the external IP of my-vm-1 instance with this command:
 
         `gcloud compute instances list --zone us-central1-a`
     
