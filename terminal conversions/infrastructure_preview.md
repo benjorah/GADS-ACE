@@ -1,4 +1,4 @@
-# LAB:  Essential Google Cloud Infrastructure: Foundation -> infrastructure Overview
+# LAB:  Essential Google Cloud Infrastructure: Foundation -> Infrastructure Overview
 
 ## Objectives:
 
